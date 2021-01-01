@@ -6,24 +6,24 @@
 > :v: Team Member : 김형준, 정규동, 최하윤, 김연우<br>
 
 ### :hammer_and_wrench: Project Part
-> :peach: 서영<br>
+> :sunny: 서영<br>
 게시판 FeedType<br>
 게시판 Modal<br><br>
-> :grapes: 형준<br>
+> 	:star: 형준<br>
 회원가입/로그인<br>
 아이디/비밀번호찾기<br>
 전문가 등록<br><br>
-> :lemon: 규동<br>
+> :zap: 규동<br>
 회원가입/로그인<br>
 마이페이지/정보수정<br>
 회원탈퇴<br><br>
-> :apple: 하윤<br>
+> :crescent_moon: 하윤<br>
 게시판 BoardType<br>
 게시판 상세보기<br>
 사이드바 Menu<br>
 글쓰기/글수정<br>
 댓글입력/삭제<br><br>
-> :tomato: 연우<br>
+> :snowflake: 연우<br>
 관리자페이지<br>
 홈페이지 알람<br>
 채팅<br>
