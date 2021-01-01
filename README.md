@@ -29,7 +29,7 @@
 채팅<br>
 
 
-### :building_construction: Development schedule (2020.07.24 ~ 2020.09.11)
+### :building_construction: Development schedule (2020.09.21 ~ 2020.12.21)
 > 프로젝트 기획 : 2020.09.21 ~ 2020.09.26<br>
 > UI회의 / 설계 : 2020.09.27 ~ 2020.10.11<br>
 > DB회의 / 설계 : 2020.10.12 ~ 2020.10.16<br>
