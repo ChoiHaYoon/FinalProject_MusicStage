@@ -43,6 +43,7 @@
 > Database : Oracle 11g<br>
 > Development Language : JAVA , HTML5, CSS3, JavaScript, jQuery, SQL, JSP, Servlet<br>
 > Team Coop : GitHub, ERDCloud, kakaoOven<br>
+> API : Kakao Maps API, Kakao Login API, Daum(Kakao) Map PostCode API, bxSlider API<br>
 
 ### :mag: Development Background
 > #### 음악 대통합 커뮤니티<br>
