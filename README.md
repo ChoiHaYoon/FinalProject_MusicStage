@@ -1,4 +1,4 @@
-# **FinalProject_MusicStage** 
+# **FinalProject_MusicStage**
 ## 음악통합커뮤니티 MusicStage
 
 ### :raising_hand_woman: Project Team Member :raising_hand_man:
@@ -63,3 +63,6 @@
 
 ###  Implementation Screen
 __추가예정__
+
+1. Logo <br>
+![STAGE로고](https://user-images.githubusercontent.com/66005208/103438161-61c23680-4c73-11eb-8435-3176b412d837.png)
