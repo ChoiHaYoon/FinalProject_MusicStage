@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/musicstage/spring/board/controller/BoardController.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/board/model/dao/BoardDAO.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/board/model/service/BoardService.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/board/model/service/BoardServiceImpl.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/member/controller/MemberController.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/member/model/dao/MemberDAO.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/member/model/service/MemberService.java=UTF-8
+encoding//src/main/java/com/musicstage/spring/member/model/service/MemberServiceImpl.java=UTF-8
