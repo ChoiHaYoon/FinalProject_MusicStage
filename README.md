@@ -68,25 +68,33 @@
 음악커뮤니티 답게 로고를 높은음자리표를 이용해서 오선지에 글자를 넣어 제작하였습니다<br><br>
 
 #### :punch: Side Bar<br>
+![사이드바](https://user-images.githubusercontent.com/66005208/105624787-b702f980-5e67-11eb-99b9-68a5266d73fa.jpg)
 화면이 아닌 기능만 구현하였으며 사이드 바는 home / 소식 / 팔로우 / 보관함 / 팔로우 목록 / footer로 이루어져 있습니다.<br>
 메뉴들은 클릭하면 맞는 게시판으로 넘어가게 되고 팔로우 목록은 사용자가 팔로우 한 사용자의 YouStage(마이페이지)로 넘어가게 됩니다.<br>
 더보기 버튼을 클릭시 사용자가 팔로우한 목록이 한꺼번에 나타나게 됩니다.<br><br>
 
 
 #### :punch: Board - Tumbnail Type<br>
+![팔로우](https://user-images.githubusercontent.com/66005208/105624794-c8e49c80-5e67-11eb-9e3d-088ac7e5de3a.jpg)
 각 게시판별로 FeedType과 Thumbnail Type으로 나뉘게 되는데 제가 맡은 부분은 Thumbnail Type입니다.<br>
 썸네일과 제목 작성자프로필사진과 닉네임, 조회수가 나타나게 됩니다.<br>
-1~6번째의 게시물만 받아 온 후 스크롤을 내릴때 처음 가져온 값들 제외 리스트가 남아있을 경우 ajax를 이용해서 남은 게시글 1~6개를 더 가져오게 됩니다.<br>
-반복적으로 리스트가 남아있지 않을 경우까지 진행합니다.<br>
-만약 게시글이 남아있지 않을 경우 더 이상 표시할 게시글이 없습니다 라는 팝업창을 띄우게 됩니다.<br><br>
+1에서 6번째의 게시물만 받아 온 후 스크롤을 내릴때 처음 가져온 값들 제외 리스트가 남아있을 경우<br> 
+ajax를 이용해서 남은 게시글 6개를 더 가져오게 됩니다.<br>
+반복적으로 리스트가 남아있지 않을 경우까지 진행하여, 만약 게시글이 남아있지 않을 경우<br>
+더 이상 표시할 게시글이 없습니다 라는 팝업창을 띄우게 됩니다.<br><br>
 
 
 #### :punch: Search<br>
+![검색](https://user-images.githubusercontent.com/66005208/105624802-d69a2200-5e67-11eb-9484-c69a44a8f0b6.jpg)
 검색기능은 원하는 카테고리와 원하는 제목검색어를 입력 후 검색아이콘을 클릭하면 BoardType으로 게시글 목록이 나타나게 됩니다.<br> 
 처음화면에는 6개의 게시물만 나타나게 되고 스크롤바를 내릴 시 검색한 게시글의 목록이 남아있으면 나타나게 됩니다.<br><br>
 
 
 #### :punch: Board Write<br>
+![글쓰기1](https://user-images.githubusercontent.com/66005208/105624806-e31e7a80-5e67-11eb-8b85-ba822911d3cb.jpg)
+![글쓰기2](https://user-images.githubusercontent.com/66005208/105624809-e580d480-5e67-11eb-90ea-44846092309c.jpg)
+![글쓰기3](https://user-images.githubusercontent.com/66005208/105624810-e6b20180-5e67-11eb-9e7b-bb2641d406d1.jpg)
+![글쓰기4](https://user-images.githubusercontent.com/66005208/105624812-e9145b80-5e67-11eb-8e79-9cce5c9d34a0.jpg)
 제목과 카테고리와 설명은 무조건 작성해야합니다.<br>
 썸네일은 등록을 무조건 해야 하지만 만약 등록하고 싶지 않을 시<br>
 등록버튼을 클릭했을 때 기본이미지로 등록이 된다는 confirm창이 뜨고 확인버튼을 클릭하면 기본이미지로 등록이 됩니다.<br>
@@ -102,6 +110,9 @@
 
 
 #### :punch: Board Detail<br>
+![상세보기1](https://user-images.githubusercontent.com/66005208/105624817-ef0a3c80-5e67-11eb-97cf-c731add411af.jpg)
+![상세보기2](https://user-images.githubusercontent.com/66005208/105624819-f0d40000-5e67-11eb-8576-89e9e6972f25.jpg)
+![상세보기3](https://user-images.githubusercontent.com/66005208/105624820-f16c9680-5e67-11eb-9e0a-478d60d91c9b.jpg)
 맨 위 상단은 선택한 카테고리가 나타납니다. 썸네일과 제목 작성일 조회수가 나타나고<br>
 바로 밑엔 작성자 프로필사진과 닉네임이 나타납니다. 작성자가 로그인 유저일 경우 삭제와 수정버튼이 나타나고<br>
 작성자가 로그인 유저가 아닐경우 신고하기와 메시지보내기와 YouStage버튼이 나타납니다.<br> 
@@ -114,6 +125,7 @@
 
 
 #### :punch: Category Search<br>
+![카테고리 필터](https://user-images.githubusercontent.com/66005208/105624836-0cd7a180-5e68-11eb-8e53-270d84e8025d.jpg)
 각 카테고리 별로 카테고리에 맞는 하위카테고리가 나오게 구현하였습니다.<br> 
 소셜은 나타나지 않으며 버튼 클릭 시 게시글작성 할 때 지정한 카테고리에 맞는 게시물들이 나타나게 구현하였습니다.<br><br>
 
